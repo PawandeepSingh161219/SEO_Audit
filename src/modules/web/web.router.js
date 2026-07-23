@@ -4,7 +4,7 @@ import { validateUrl } from "./web.validator.js";
 
 
 const webRouter= express.Router()
-webRouter.get("/", validateUrl, seoController);
+webRouter.post("/", validateUrl, seoController);
 
 
 export default webRouter;
