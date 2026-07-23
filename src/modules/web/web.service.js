@@ -9,7 +9,7 @@ import analyzeImageAlt from "../../shared/anylizers/imgTag.analizer.js";
 import analyzeUrlStructure from "../../shared/anylizers/urlStructure.analyzer.js";
 import analyzeCrawlability from "../../shared/anylizers/crawlability.analyzer.js";
 import analyzeTechnicalSEO from "../../shared/anylizers/technicalSeo.analyzer.js";
-import analyzeHttpsSSL from "../../shared/anylizers/httpsSSL.analyzer.js";
+import analyzeHttpsSSL from "../../shared/anylizers/httpsSsl.analyzer.js";
 import analyzeRobotsTxt from "../../shared/anylizers/robotsTxt.analyzer.js";
 import analyzeSitemap from "../../shared/anylizers/sitemap.analyzer.js";
 import analyzeSitemapDetection from "../../shared/anylizers/sitemapDetection.analyzer.js";
